@@ -13,11 +13,17 @@ If you are tired of the default Spotify theme, this is for you
 <ul>
  <li> Open Powershell with the win + r combination </li>
  <li> <code>spicetify config current_theme Menk color_scheme Purple</code> </li>
+ 
  <li><code>spicetify apply </code></li>
- <li> <img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/purple-spotify.PNG?raw=true">Spotify with Control Keys</li>
- <li> <img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/purple-spotify-no-controller.PNG?raw=true"> No Controller  </li>
+ 
+ <img src="https://raw.githubusercontent.com/Menk50/Spotify-Purple-Theme/master/Menk/powershell.PNG" widht="500" heihgt="350">Spotify with Control Keys
 
-</ul>
+ 
+ </ul>
+
+<img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/purple-spotify.PNG?raw=true" widht="500" heihgt="350">Spotify with Control Keys
+ <img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/purple-spotify-no-controller.PNG?raw=true"  widht="500" heihgt="350"> No Controller  
+
 <h3>Enjoy!!</h3>
 
 <h3>_</h3>
