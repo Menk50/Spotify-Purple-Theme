@@ -1,4 +1,4 @@
-# Spotify-Purple-Theme
+# Spotify Purple Theme
 If you are tired of the default Spotify theme, this is for you
 
 <h3>Spotify InterFace Demo</h3>
