@@ -26,6 +26,28 @@ Config file is located at:
 <b>Linux</b>: ``` $XDG_CONFIG_HOME/.config/spicetify/config.ini or ~/.config/spicetify/config.ini ```
 
 <b>MacOS</b>: 
-``` ~/spicetify_data/config.ini sdsdsdsaasdsadsadsa ~~~ sadsadsa  ```
+``` ~/spicetify_data/config.ini ```
 
 Or simply run
+ ```spicetify -c ```
+ to know where it is.
+
+For detail information of each config field, please run:
+ 
+ ``` spicetify --help config  ``` 
+ 
+ <h3 > Themes </h3>
+ 
+ There are 2 places you can put your themes:
+ <ol>
+ <li>  ``` Themes  ``` folder in Home directory </li>
+  
+  <b>Windows</b>:
+```     %userprofile%\.spicetify\Themes\ ```
+ 
+<b>Linux</b>: ``` $XDG_CONFIG_HOME/.config/spicetify/Themes/ or ~/.config/spicetify/Themes ```
+
+<b>MacOS</b>: 
+``` ~/spicetify_data/Themes ```
+
+<li>  ``` Themes  ``` folder in Spicetify executable directory </li>
