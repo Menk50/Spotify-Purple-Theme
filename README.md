@@ -9,8 +9,18 @@ If you are tired of the default Spotify theme, this is for you
 <ul>
  <li> <a href="https://github.com/khanhas/spicetify-cli/wiki/Installation#with-powershell-pre-built-binary"> Spicetify-cli Download</a> </li>
 </ul>
+<h5>Step 2</h5>
+<ul>
+ <li> Open Powershell with the win + r combination </li>
+ <li> <code>spicetify config current_theme Menk color_scheme Purple</code> </li>
+ <li><code>spicetify apply </code></li>
+ <li> <img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/purple-spotify.PNG?raw=true">Spotify with Control Keys</li>
+ <li> <img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/purple-spotify-no-controller.PNG?raw=true"> No Controller  </li>
 
+</ul>
+<h3>Enjoy!!</h3>
 
+<h3>_</h3>
 <h1> Customization </h1>
 
 <a href="#config">Config </a> <br>
