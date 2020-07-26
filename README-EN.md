@@ -109,7 +109,7 @@ spicetify apply
 ```
 
 </h3>Hide Window Controls</h3>
-Windows user, please edit your Spotify shortcut and add flag ```--transparent-window-controls``` after the Spotify.exe:
+Windows user, please edit your Spotify shortcut and add flag ```--transparent-window-controls ``` after the Spotify.exe:
 
 <img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Capture.PNG?raw=true" alt="transparent-windows-controls">
 
