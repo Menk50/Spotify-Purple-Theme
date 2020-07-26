@@ -17,7 +17,7 @@ If you are tired of the default Spotify theme, this is for you
 <a href="#themes">Theme </a>
 
 
-<h3 > <a href="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/README-EN.md#config">Config</a></h3>
+<h3 > <a name="config">Config</a></h3>
 Config file is located at:
 
 <b>Windows</b>:
