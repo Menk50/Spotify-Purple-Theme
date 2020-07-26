@@ -8,5 +8,26 @@ If you are tired of the default Spotify theme, this is for you
 <h5>Step 1</h3> 
 <ul>
  <li> <a href="https://github.com/khanhas/spicetify-cli/wiki/Installation#with-powershell-pre-built-binary"> Spicetify-cli Download</a> </li>
-<li>
 </ul>
+
+
+<h1> Customization </h1>
+
+Config 
+Theme
+
+
+<h3>Config</h3>
+Config file is located at:
+
+<b>Windows</b>:
+``` %userprofile%\.spicetify\config.ini
+``` 
+<b>Linux</b>:
+``` $XDG_CONFIG_HOME/.config/spicetify/config.ini or ~/.config/spicetify/config.ini
+```
+<b>MacOS</b>: 
+``` ~/spicetify_data/config.ini  
+```
+
+Or simply run
