@@ -36,7 +36,7 @@ For detail information of each config field, please run:
  
  ``` spicetify --help config  ``` 
  
- <h3 > Themes </h3>
+ <h3 > <a href="https://github.com/Menk50/Spotify-Purple-Theme/"> Themes</a> </h3>
  
  There are 2 places you can put your themes:
  
