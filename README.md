@@ -16,7 +16,7 @@ If you are tired of the default Spotify theme, this is for you
  
  <li><code>spicetify apply </code></li>
  
- <img src="https://raw.githubusercontent.com/Menk50/Spotify-Purple-Theme/master/Menk/powershell.PNG" widht="500" heihgt="350">Spotify with Control Keys
+ <img src="https://raw.githubusercontent.com/Menk50/Spotify-Purple-Theme/master/Menk/powershell.PNG" widht="500" heihgt="350">
 
  
  </ul>
