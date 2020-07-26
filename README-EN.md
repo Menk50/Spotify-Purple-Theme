@@ -126,7 +126,7 @@ spicetify config color_scheme <scheme name>
 spicetify apply
  ```
  
- <h3> ```color.ini ``` reference </h3> 
+<code>color.ini</code>  reference 
  These keys are used in the ```colors.ini ``` file.
  
  <img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/color.PNG?raw=true" alt="color.ini">
