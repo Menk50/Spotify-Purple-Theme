@@ -21,7 +21,7 @@ Theme
 Config file is located at:
 
 <b>Windows</b>:
-```    ``` %userprofile%\.spicetify\config.ini
+```     %userprofile%\.spicetify\config.ini ```
  
 <b>Linux</b>: ``` $XDG_CONFIG_HOME/.config/spicetify/config.ini or ~/.config/spicetify/config.ini ```
 
