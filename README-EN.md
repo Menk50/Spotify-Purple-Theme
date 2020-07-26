@@ -13,11 +13,11 @@ If you are tired of the default Spotify theme, this is for you
 
 <h1> Customization </h1>
 
-Config 
-Theme
+<a href="#themes">Config </a> 
+<a href="#themes">Theme </a>
 
 
-<h3>Config</h3>
+<h3 > <a href="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/README-EN.md#config">Config</a></h3>
 Config file is located at:
 
 <b>Windows</b>:
@@ -36,7 +36,7 @@ For detail information of each config field, please run:
  
  ``` spicetify --help config  ``` 
  
- <h3 > <a href="https://github.com/Menk50/Spotify-Purple-Theme/"> Themes</a> </h3>
+ <h3 > <a href="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/README-EN.md#themes"> Themes</a> </h3>
  
  There are 2 places you can put your themes:
  
