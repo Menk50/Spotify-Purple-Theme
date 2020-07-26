@@ -39,8 +39,10 @@ For detail information of each config field, please run:
  <h3 > Themes </h3>
  
  There are 2 places you can put your themes:
- <ol>
- <li>  ``` Themes  ``` folder in Home directory </li>
+ 
+
+  ``` Themes  ``` folder in Home directory 
+
   
   <b>Windows</b>:
 ```     %userprofile%\.spicetify\Themes\ ```
@@ -50,4 +52,4 @@ For detail information of each config field, please run:
 <b>MacOS</b>: 
 ``` ~/spicetify_data/Themes ```
 
-<li>  ``` Themes  ``` folder in Spicetify executable directory </li>
+``` Themes  ``` folder in Spicetify executable directory 
