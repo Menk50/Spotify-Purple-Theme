@@ -13,7 +13,7 @@ If you are tired of the default Spotify theme, this is for you
 
 <h1> Customization </h1>
 
-<a href="#themes">Config </a> 
+<a href="#config">Config </a> <br>
 <a href="#themes">Theme </a>
 
 
