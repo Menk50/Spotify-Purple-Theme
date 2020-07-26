@@ -106,20 +106,20 @@ Run these command
 <b>Linux and MacOS:</b>
 In <b>Bash</b>:
 
-```cd "$(dirname "$(spicetify -c)")/Themes/Dribbblish"
+```cd "$(dirname "$(spicetify -c)")/Themes/Menk"
 cp dribbblish.js ../../Extensions
-spicetify config extensions dribbblish.js
-spicetify config current_theme Dribbblish color_scheme base
+spicetify config extensions menk.js
+spicetify config current_theme Menk color_scheme purple
 spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
 spicetify apply
 ```
 <b>Windows</b>
 In <b>Powershell:</b>
 
-```cd "$(spicetify -c | Split-Path)\Themes\Dribbblish"
-Copy-Item dribbblish.js ..\..\Extensions
-spicetify config extensions dribbblish.js
-spicetify config current_theme Dribbblish color_scheme base
+```cd "$(spicetify -c | Split-Path)\Themes\Menk"
+Copy-Item menk.js ..\..\Extensions
+spicetify config extensions menk.js
+spicetify config current_theme Menk color_scheme purple
 spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
 spicetify apply
 ```
