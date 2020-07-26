@@ -2,7 +2,7 @@
 If you are tired of the default Spotify theme, this is for you
 
 <h3>Spotify InterFace Demo</h3>
- <img Src="https://github.com/Menk50/Spotify-Purple-Theme/Menk/blob/master/Demo.png?raw=true" widht="490" height="350" alt="Spotify InterFace Demo" >
+ <img Src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/Demo.png?raw=true" widht="490" height="350" alt="Spotify InterFace Demo" >
 <h1>#Install</h1>
  
 <h5>Step 1</h3> 
@@ -111,13 +111,13 @@ spicetify apply
 </h3>Hide Window Controls</h3>
 Windows user, please edit your Spotify shortcut and add flag <code> --transparent-window-controls </code> after the Spotify.exe:
 
-<img src="https://github.com/Menk50/Spotify-Purple-Theme/Menk/blob/master/Capture.PNG?raw=true" alt="transparent-windows-controls">
+<img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/Capture.PNG?raw=true" alt="transparent-windows-controls">
 
 Alternatively, you can use ```SpotifyNoControl.exe```, included in this theme package, to completely remove all windows controls and title menu (three dot at top left corner). Title menu still can be access via Alt key. Closing, minimizing can be done via right click menu at top window region.
 ```SpotifyNoControl.exe``` could be used as Spotify launcher, it opens Spotify and hides controls right after. So you should make a shortcut for it, change icon and add to desktop or start menu.
 Moreover, by default, Spotify adjusted sidebar items and profile menu icon to stay out of Windows native controls region. If you decided to use ```SpotifyNoControl.exe``` from now on, please open ```user.css``` file and change variable -```-os-windows-icon-dodge``` value to 0 as instruction to snap icons back to their original position.
 
-<img src="https://github.com/Menk50/Spotify-Purple-Theme/Menk/blob/master/Capture2.PNG?raw=true" alt="transparent-icon">
+<img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/Capture2.PNG?raw=true" alt="transparent-icon">
 
 <h3>Extra Color Schemes</h3>
 There are 1 color chart you can choose, you can clone it and create it as you want. By default, there is a ```Purple``` Color chart.
@@ -129,4 +129,4 @@ spicetify apply
 <h3> <code>color.ini</code>  reference <h3> 
  These keys are used in the ```colors.ini ``` file.
  
- <img src="https://github.com/Menk50/Spotify-Purple-Theme/Menk/blob/master/color.PNG?raw=true" alt="color.ini">
+ <img src="https://github.com/Menk50/Spotify-Purple-Theme/blob/master/Menk/color.PNG?raw=true" alt="color.ini">
