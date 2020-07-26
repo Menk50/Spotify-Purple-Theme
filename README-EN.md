@@ -25,9 +25,9 @@ Config file is located at:
 ``` 
 <b>Linux</b>:
 ``` $XDG_CONFIG_HOME/.config/spicetify/config.ini or ~/.config/spicetify/config.ini
-```
+
 <b>MacOS</b>: 
-``` ~/spicetify_data/config.ini  
-```
+``` ~/spicetify_data/config.ini sdsdsdsaasdsadsadsa ~~~ sadsadsa 
+
 
 Or simply run
