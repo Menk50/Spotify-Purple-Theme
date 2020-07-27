@@ -29,7 +29,6 @@ If you are tired of the default Spotify theme, this is for you
 <h3>_</h3>
 <h1> Customization </h1>
 
-<a href="#config">Config </a> <br>
 <a href="#themes">Theme</a>
 
 
@@ -107,7 +106,7 @@ Run these command
 In <b>Bash</b>:
 
 ```cd "$(dirname "$(spicetify -c)")/Themes/Menk"
-cp dribbblish.js ../../Extensions
+cp menk.js ../../Extensions
 spicetify config extensions menk.js
 spicetify config current_theme Menk color_scheme purple
 spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
